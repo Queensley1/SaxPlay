@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/notes"
+        android:title="Keys"
+        android:icon="@drawable/ic_baseline_queue_music_24"
+        app:cnb_iconColor="@android:color/holo_blue_light" />
+    <item
+        android:id="@+id/fingering"
+        android:title="Fingering"
+
+        app:cnb_iconColor="@android:color/holo_purple" />
+    <item
+        android:id="@+id/settings"
+        android:title="Settings"
+        app:cnb_iconColor="@android:color/holo_orange_light" />
+
+</menu>
